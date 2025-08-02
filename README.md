@@ -15,7 +15,7 @@ Built with ❤️ by [Praise Ogooluwa](https://github.com/Praiseogooluwa)
 
 ## 📸 Demo
 
-> Coming Soon...
+> https://breakfast-ai.vercel.app
 
 ## 📦 Tech Stack
 
